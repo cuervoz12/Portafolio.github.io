@@ -15,7 +15,7 @@ El objetivo es mostrar tu perfil como desarrollador full stack con un estilo **f
 ---
 
 ## Estructura del proyecto
-
+```bashbash
 Frontend/
 ├── src/
 │   ├── components/
@@ -41,13 +41,16 @@ Frontend/
    cd portafolio/Frontend
 
 2. **Instalar dependencias**
-   ```npm install
+   ```bash
+   npm install
   
 3. **Levantar el servidor de desarrollo**
-   ```npm run dev
+   ```bash
+   npm run dev
 
 2. **Abrir en el navegador**
-   ```http://localhost:5173
+   ```bash
+   http://localhost:5173
 
 ---
 
